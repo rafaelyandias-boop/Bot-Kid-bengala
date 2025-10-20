@@ -1,0 +1,17 @@
+{
+  "name": "bot-criaserver",
+  "version": "1.0.0",
+  "description": "Bots do servidor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "bot": "node bot.js",
+    "peneira": "node peneira.js",
+    "regras": "node regras.js",
+    "regrass": "node regrass.js",
+    "teste": "node teste.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
